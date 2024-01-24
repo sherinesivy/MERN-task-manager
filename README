@@ -1,0 +1,6 @@
+STEP 1: Download the zip code and extract it
+
+STEP 2: import the the necessary modules as stated in pakage.json
+
+STEP 3 : use npm start command to run both frontend and backend
+
